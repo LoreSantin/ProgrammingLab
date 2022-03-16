@@ -13,4 +13,4 @@ class CSVFile():
         return my_list
 
 csvfile = CSVFile('shampoo_sales.csv')
-print(csvfile.get_data())
+#print(csvfile.get_data())
